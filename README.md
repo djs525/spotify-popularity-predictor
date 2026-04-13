@@ -68,6 +68,7 @@ jupyter notebook 02_preprocessing.ipynb
 jupyter notebook 03_modeling.ipynb
 jupyter notebook 04_shap.ipynb
 ```
+OR just hit Run All in any IDE of your choice.
 
 Each notebook saves its outputs (processed data, models, figures) so the next notebook can load them directly.
 
