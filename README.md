@@ -53,6 +53,6 @@ Each notebook saves its outputs (processed data, models, figures) so the next no
 
 | Model | RMSE | MAE | R² |
 |---|---|---|---|
-| Linear Regression | — | — | — |
-| Random Forest | — | — | — |
-| LightGBM | — | — | — |
+| Linear Regression | 16.97 | 12.11 | 0.32 |
+| Random Forest | 15.47 | 10.78 | 0.44 |
+| LightGBM | 15.37 | 10.69 | 0.44 |
