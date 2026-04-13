@@ -48,8 +48,8 @@ spotify-popularity-predictor/
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/spotify-popularity-prediction.git
-cd spotify-popularity-prediction
+git clone https://github.com/djs525/spotify-popularity-predictor.git
+cd spotify-popularity-predictor
 pip install -r requirements.txt
 ```
 
