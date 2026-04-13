@@ -7,7 +7,6 @@ Predicting Spotify track popularity (0–100) from audio features using LightGBM
 ```
 spotify-popularity-predictor/
 ├── data
-│   ├── processed
 │   ├── raw
 │   │   └── dataset.csv
 │   ├── feature_names.pkl
